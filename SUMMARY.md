@@ -2,10 +2,6 @@
 
 * [快速上手](./doc/handbook/tutorials/README.md)
   * [5分钟了解TypeScript](./doc/handbook/tutorials/TypeScript in 5 minutes.md)
-  * [ASP.NET Core](./doc/handbook/tutorials/ASP.NET Core.md)
-  * [ASP.NET 4](./doc/handbook/tutorials/ASP.NET 4.md)
-  * [Gulp](./doc/handbook/tutorials/Gulp.md)
-  * [Knockout.js](./doc/handbook/tutorials/Knockout.md)
   * [React与webpack](./doc/handbook/tutorials/React & Webpack.md)
   * [React](./doc/handbook/tutorials/React.md)
   * [Angular 2](./doc/handbook/tutorials/Angular 2.md)
@@ -41,7 +37,7 @@
   * [举例](./doc/handbook/declaration files/By Example.md)
   * [深入](./doc/handbook/declaration files/Deep Dive.md)
   * [发布](./doc/handbook/declaration files/Publishing.md)
-  * [使用](./doc/handbook/declaration files/Consumption.md)
+  <!-- * [使用](./doc/handbook/declaration files/Consumption.md) -->
 * [工程配置](./doc/handbook/tsconfig.json.md)
   * [tsconfig.json](./doc/handbook/tsconfig.json.md)
   * [工程引用](./doc/handbook/Project References.md)

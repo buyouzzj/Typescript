@@ -22,10 +22,6 @@ TypeScript目前还在积极的开发完善之中，不断地会有新的特性�
 
 * [快速上手](./doc/handbook/tutorials/README.html)
   * [5分钟了解TypeScript](./doc/handbook/tutorials/TypeScript in 5 minutes.html)
-  * [ASP.NET Core](./doc/handbook/tutorials/ASP.NET Core.html)
-  * [ASP.NET 4](./doc/handbook/tutorials/ASP.NET 4.html)
-  * [Gulp](./doc/handbook/tutorials/Gulp.html)
-  * [Knockout.js](./doc/handbook/tutorials/Knockout.html)
   * [React与webpack](./doc/handbook/tutorials/React & Webpack.html)
   * [React](./doc/handbook/tutorials/React.html)
   * [Angular 2](./doc/handbook/tutorials/Angular 2.html)
